@@ -1,0 +1,44 @@
+# ===== Build çıktıları =====
+bin/
+obj/
+out/
+
+# ===== Kullanıcıya özel ayarlar =====
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Visual Studio =====
+.vs/
+.vscode/
+
+# ===== Rider / JetBrains =====
+.idea/
+
+# ===== .NET =====
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ===== NuGet =====
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# ===== Log & geçici dosyalar =====
+*.log
+*.tmp
+*.temp
+
+# ===== OS dosyaları =====
+.DS_Store
+Thumbs.db
+
+# ===== Test sonuçları =====
+TestResults/
+
+# ===== Publish çıktıları =====
+publish/
